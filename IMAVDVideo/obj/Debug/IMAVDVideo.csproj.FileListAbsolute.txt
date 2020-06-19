@@ -1,0 +1,14 @@
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.Form1.resources
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.Properties.Resources.resources
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.csproj.GenerateResource.cache
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\bin\Debug\IMAVDVideo.exe.config
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\bin\Debug\IMAVDVideo.exe
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\bin\Debug\IMAVDVideo.pdb
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\bin\Debug\Emgu.CV.xml
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\bin\Debug\Emgu.CV.UI.xml
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\bin\Debug\Emgu.Util.xml
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.csproj.CopyComplete
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.exe
+C:\Users\renar\Desktop\IMAVDVideo\IMAVDVideo\obj\Debug\IMAVDVideo.pdb
