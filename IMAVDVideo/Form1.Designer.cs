@@ -65,6 +65,7 @@ namespace IMAVDVideo
             this.SaveButton.TabIndex = 4;
             this.SaveButton.Text = "Guardar Cara";
             this.SaveButton.UseVisualStyleBackColor = true;
+            this.SaveButton.Click += new System.EventHandler(this.SaveButton_Click);
             // 
             // textName
             // 
