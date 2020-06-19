@@ -1,4 +1,5 @@
 ﻿using Emgu.CV;
+using Emgu.CV.UI;
 using Emgu.CV.Structure;
 using System;
 using System.Collections.Generic;
@@ -55,14 +56,14 @@ namespace IMAVDVideo
             }
         }
 
-        private void cameraBox_Click(object sender, EventArgs e)
+        private void start_Click(object sender, EventArgs e)
         {
             camera = new Capture();
             camera.QueryFrame();
             Application.Idle += new EventHandler(FrameProcedure);
         }
 
-        private void saveButton_Click(object sender, EventArgs e)
+        private void SaveButton_Click(object sender, EventArgs e)
         {
             Count = Count + 1;
             grayFace = camera.QueryGrayFrame().Resize(320, 240, Emgu.CV.CvEnum.INTER.CV_INTER_CUBIC);

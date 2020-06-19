@@ -46,7 +46,6 @@ namespace IMAVDVideo
             this.cameraBox.Size = new System.Drawing.Size(629, 426);
             this.cameraBox.TabIndex = 2;
             this.cameraBox.TabStop = false;
-            this.cameraBox.Click += new System.EventHandler(this.cameraBox_Click);
             // 
             // start
             // 
@@ -56,6 +55,7 @@ namespace IMAVDVideo
             this.start.TabIndex = 3;
             this.start.Text = "Começar Deteção e Reconhecimento";
             this.start.UseVisualStyleBackColor = true;
+            this.start.Click += new System.EventHandler(this.start_Click);
             // 
             // SaveButton
             // 
